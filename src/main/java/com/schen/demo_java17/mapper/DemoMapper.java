@@ -10,7 +10,6 @@ import org.apache.ibatis.annotations.Mapper;
 * @createDate 2023-05-02 16:44:56
 * @Entity com.schen.demo_java17.entity.Demo
 */
-@Mapper
 public interface DemoMapper extends BaseMapper<Demo> {
 
 }
